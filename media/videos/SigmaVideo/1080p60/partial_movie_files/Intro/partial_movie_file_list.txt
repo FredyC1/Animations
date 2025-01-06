@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/SigmaVideo/1080p60/partial_movie_files/Intro/3977891868_2965585034_223132457.mp4'
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/SigmaVideo/1080p60/partial_movie_files/Intro/2852726489_1502427815_2297421489.mp4'
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/SigmaVideo/1080p60/partial_movie_files/Intro/2852726489_3580331930_3188021402.mp4'
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/SigmaVideo/1080p60/partial_movie_files/Intro/2852726489_3890345977_2982794355.mp4'
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/SigmaVideo/1080p60/partial_movie_files/Intro/2852726489_1057217457_2944450791.mp4'
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/SigmaVideo/1080p60/partial_movie_files/Intro/2852726489_1099457700_1347658459.mp4'
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/SigmaVideo/1080p60/partial_movie_files/Intro/2852726489_2684862280_4227516557.mp4'

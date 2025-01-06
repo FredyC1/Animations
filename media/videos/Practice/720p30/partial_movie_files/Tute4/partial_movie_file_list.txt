@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/Practice/720p30/partial_movie_files/Tute4/2016333726_80930803_3477331115.mp4'
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/Practice/720p30/partial_movie_files/Tute4/543634251_1043013128_3441855521.mp4'
+file 'file:/Users/alexcabrera/Documents/animations/media/videos/Practice/720p30/partial_movie_files/Tute4/543634251_3640977669_235926350.mp4'
